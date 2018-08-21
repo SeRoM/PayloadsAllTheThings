@@ -51,6 +51,10 @@
     mv 6139863967a752f3402b3975e97a84d152fd8f .git/objects/32/
     git cat-file -p cb6139863967a752f3402b3975e97a84d152fd8f
     ```
+### Automatic way : GitTools 
+```
+https://github.com/internetwache/GitTools
+```
 
 ### Automatic way : diggit.py
 
